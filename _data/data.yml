@@ -1,0 +1,209 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Oscar Carmenate Rodriguez
+    tagline: Automotive Maintenance Technician
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: oscarmenatex@gmail.com
+    phone: +1 727 325 3450
+    timezone: America/New York
+    ubication: Florida, USA
+    citizenship: Cuban
+    website: oscarmenatex.github.io/automotive-cv #do not add http://
+    linkedin: #alandoe
+    xing: #alandoe
+    github: #sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: #http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Explore new driving routes.
+          link:
+
+        - item: Automotive technology.
+          link:
+
+        - item: Car DIY.
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+          Enthusiastic and self-taught young man with a strong passion 
+          for the automotive industry and a burning desire to become a 
+          highly competent Automotive Service and Repair Technician.
+          I have technical skills in automotive maintenance acquired 
+          through practical experience and self-taught learning, 
+          highlighting changing engine oil, transmission fluid, filters
+          and brake systems. Committed to continue developing my skills
+          and knowledge to contribute significantly to the automotive
+          sector.
+
+education:
+    title: Education
+    info:
+      - degree: BSc in  Computer Science
+        university: Universidad de las Ciencias Informáticas. La Habana - Cuba
+        time: 2009 - 2016
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: Middle Technician in Computer Science
+        university: Instituto Politécnico de Informáticas - Mariana Grajales Cuello. Santiago de Cuba - Cuba.
+        time: 2005 - 2008
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+
+
+experiences:
+    title: Experiences
+    info:
+      - role: Independent Automotive Maintenance
+        time: 2022 - Present
+        company: #
+        details: |
+           Automotive Maintenance
+           - Engine oil and filter change in various vehicles, ensuring 
+             optimal engine performance.
+           - Replacement of transmission fluid, guaranteeing the proper 
+             functioning of the transmission systems.
+           - Making changes to brake systems and tire rotation, focused
+             on improving the safety and efficiency of the vehicle.
+
+certifications:
+      title: Certifications 
+      list:
+        - name: Class E Driver's License
+          start: 2023
+          end: 2025
+          organization: FLHSMV
+          credentialid: C655-640-90-218-0
+          credentialurl: mydmvportal.flhsmv.gov/home/en/publicweb/dlcheck/
+          credentialname: Class E
+          details: |
+             Any non-commercial motor vehicles with Gross Vehicle Weight
+             Rating (GVWR) less than 26,001 pounds, including passenger
+             cars, 15 passenger vans including the driver, trucks or
+             recreational vehicles and two or three wheel motor vehicles
+             50 cc or less, such as mopeds or small scooters.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: ""
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+ 
+    toolset: 
+      - name: Teamwork
+        level: 100%
+      - name: Learn new mechanical tasks
+        level: 90%
+      - name: Communication and customer service
+        level: 50%
+        
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
