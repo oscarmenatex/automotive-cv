@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Oscar Carmenate Rodriguez
-    tagline: Automotive Maintenance Technician
+    tagline: Express Lube Technician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,32 +38,26 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Explore new driving routes.
+        - item: Fitness training.
           link:
 
         - item: Automotive technology.
           link:
 
-        - item: Car DIY.
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
-          Enthusiastic and self-taught young man with a strong passion 
-          for the automotive industry and a burning desire to become a 
-          highly competent Automotive Service and Repair Technician.
-          I have technical skills in automotive maintenance acquired 
-          through practical experience and self-taught learning, 
-          highlighting changing engine oil, transmission fluid, filters
-          and brake systems. Committed to continue developing my skills
-          and knowledge to contribute significantly to the automotive
-          sector.
+          Passionate about the automotive industry, self-taught and with
+          a strong desire to grow and become an Automotive Service and
+          Repair Technician. I have hands-on experience as an Express Lube
+          Technician at the Dimmit Cadillac dealership in Clearwater, where
+          I demonstrated technical skills, attention to detail, and 
+          commitment to excellence in automotive maintenance.
 
 education:
     title: Education
@@ -91,30 +85,38 @@ education:
             - Bullet point
             - Bullet point
 
-
 experiences:
     title: Experiences
     info:
-      - role: Independent Automotive Maintenance
-        time: 2022 - Present
-        company: #
+      - role: Express Lube Technician
+        time: 11/2023 - Present
+        company: Dimmit Cadillac, Clearwater, FL
         details: |
            Automotive Maintenance
-           - Engine oil and filter change in various vehicles, ensuring 
-             optimal engine performance.
-           - Replacement of transmission fluid, guaranteeing the proper 
-             functioning of the transmission systems.
-           - Making changes to brake systems and tire rotation, focused
-             on improving the safety and efficiency of the vehicle.
+            - Conducted oil changes and oil filter replacements in accordance
+             with manufacturer specifications.
+            - Performed cabin air filter replacements, air filter replacements, and battery replacements.
+            - Executed tire mounting, dismounting, puncture repair, and tire balancing.
+            - Conducted comprehensive maintenance inspections including tire, brake, filter, battery, and fluid level checks.
 
 certifications:
+      title: Certifications
+      list:
+        - name: Doctor in Medicine
+          start: 2008
+          end: 2015
+          organization: Granma University of Medical Sciences
+          credentialid: TIII-F304V-N18218
+          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/doctora%20y%20medicina.jpg
+          credentialname: Dr.M.
+          details: |
+          
       title: Certifications 
       list:
         - name: Class E Driver's License
           start: 2023
           end: 2025
           organization: FLHSMV
-          credentialid: C655-640-90-218-0
           credentialurl: mydmvportal.flhsmv.gov/home/en/publicweb/dlcheck/
           credentialname: Class E
           details: |
@@ -197,6 +199,10 @@ skills:
  
     toolset: 
       - name: Teamwork
+        level: 100%
+      - name: Organizational
+        level: 100%
+      - name: Attention to detail
         level: 100%
       - name: Learn new mechanical tasks
         level: 90%
