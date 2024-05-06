@@ -100,20 +100,9 @@ experiences:
             - Conducted comprehensive maintenance inspections including tire, brake, filter, battery, and fluid level checks.
 
 certifications:
-      title: Certifications
-      list:
-        - name: Doctor in Medicine
-          start: 2008
-          end: 2015
-          organization: Granma University of Medical Sciences
-          credentialid: TIII-F304V-N18218
-          credentialurl: carolinahealtpro.github.io/healtpro_cv/assets/pdf/doctora%20y%20medicina.jpg
-          credentialname: Dr.M.
-          details: |
-          
       title: Certifications 
       list:
-        - name: Class E Driver's License
+        - name: Driver's License
           start: 2023
           end: 2025
           organization: FLHSMV
@@ -126,6 +115,33 @@ certifications:
              recreational vehicles and two or three wheel motor vehicles
              50 cc or less, such as mopeds or small scooters.
 
+        - name: Dealership Security Awareness
+          start: Nov 10, 2023
+          organization: Dimmitt Automotive Group's online training program
+          credentialurl: oscarmenatex.github.io/automotive-cv/assets/pdf/Dealership_Security_Awareness.pdf
+          credentialname: Dealership Security Awareness
+          details: |
+
+        - name: Identity Theft Prevention
+          start: Nov 10, 2023
+          organization: Dimmitt Automotive Group's online training program
+          credentialurl: oscarmenatex.github.io/automotive-cv/assets/pdf/Identity_Theft_Prevention.pdf
+          credentialname: Identity Theft Prevention
+          details: |
+
+        - name: OFAC Sanctions Compliance
+          start: Nov 11, 2023
+          organization: Dimmitt Automotive Group's online training program
+          credentialurl: oscarmenatex.github.io/automotive-cv/assets/pdf/OFAC_Sanctions_Compliance.pdf
+          credentialname: OFAC Sanctions Compliance
+          details: |
+
+        - name: Cash Reporting & Anti-Money Laundering
+          start: Nov 10, 2023
+          organization: Dimmitt Automotive Group's online training program
+          credentialurl: oscarmenatex.github.io/automotive-cv/assets/pdf/Cash_Reporting_&_Anti-Money_Laundering.pdf
+          credentialname: Cash Reporting & Anti-Money Laundering
+          details: |          
 projects:
     title: Projects
     intro: >
