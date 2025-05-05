@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Oscar Carmenate Rodriguez
-    tagline: Express Lube Technician
+    tagline: Automotive Entry Level Technician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: oscarmenatex@gmail.com
     phone: +1 727 325 3450
-    timezone: America/New York
+    timezone: #America/New York
     ubication: Florida, USA
     citizenship: Cuban
     website: oscarmenatex.github.io/automotive-cv #do not add http://
@@ -23,11 +23,11 @@ sidebar:
     xing: #alandoe
     github: #sharu725
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    gitlab: #
+    bitbucket: #
     twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: #
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
@@ -49,15 +49,19 @@ sidebar:
         - item: Automotive technology.
           link:
 
+        - item: Computer technology.
+          link: 
+
 career-profile:
     title: Career Profile
     summary: |
-          Passionate about the automotive industry, self-taught and with
-          a strong desire to grow and become an Automotive Service and
-          Repair Technician. I have hands-on experience as an Express Lube
-          Technician at the Dimmit Cadillac dealership in Clearwater, where
-          I demonstrated technical skills, attention to detail, and 
-          commitment to excellence in automotive maintenance.
+          Passionate and dedicated automotive technician with progressive hands-on
+          experience in express lube services, maintenance inspections, and entry-level
+          automotive repairs. Proven ability to learn quickly and exceed performance
+          expectations. Committed to building a long-term career in the automotive 
+          service and repair field. Currently seeking an opportunity near Spring Hill, 
+          FL, where I can resume my technical career path and continue professional
+          growth.
 
 education:
     title: Education
