@@ -64,44 +64,52 @@ career-profile:
           growth.
 
 education:
-    title: Education
+    title: Education & Training
     info:
-      - degree: BSc in  Computer Science
-        university: Universidad de las Ciencias Informáticas. La Habana - Cuba
-        time: 2009 - 2016
+      - degree: Automotive Technician Career Development Program (3-Stage Completion)
+        university: Autonation Cadillac Port Richey
+        time: 09/2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: Middle Technician in Computer Science
-        university: Instituto Politécnico de Informáticas - Mariana Grajales Cuello. Santiago de Cuba - Cuba.
-        time: 2005 - 2008
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Focused on preventive maintenance, BG services, brake and suspension repairs, and alignment procedures.
 
 experiences:
     title: Experiences
     info:
+      - role: Lubrication Technician / Entry-Level Technician (Express Service Team)
+        time: 06/2024 - 09/2024
+        company: Autonation Cadillac Port Richey — Port Richey, FL
+        details: |
+           Automotive Maintenance
+            - Performed express services including oil and filter changes, cabin and
+              air filter replacements, battery replacements, tire mounting, balancing, and flat repairs.
+            - Completed theoretical and hands-on training through Autonation's Technician Career Path Program.
+            - Successfully performed BG services: A/C Evaporator Service, Transmission Flush,
+              Brake Fluid Flush, and Air Intake System Cleaning.
+            - Replaced brake pads and rotors, transfer case seals, performed vehicle alignments, and installed shock absorbers.
+            - Progressed through all three stages of the program in just three months, demonstrating strong technical
+              aptitude and commitment to professional development.
+
+      - role: Lubrication Technician / Express Service Team Member
+        time: 09/2024 - Present
+        company: Coast Buick/GMC/Cadillac  (formerly Autonation Cadillac Port Richey) — Port Richey, FL
+        details: |
+           Automotive Maintenance
+            - Continued performing express services, oil changes, fluid checks, and vehicle
+              inspections as part of a high-performing team.
+            - Contributed to breaking service records in express lube operations and customer
+              service efficiency in the dealership's history.
+            - Maintained excellent teamwork, attention to detail, and productivity under
+              fast-paced conditions.
+
       - role: Express Lube Technician
-        time: 11/2023 - Present
+        time: 11/2023 - 06/2024
         company: Dimmit Cadillac, Clearwater, FL
         details: |
            Automotive Maintenance
-            - Conducted oil changes and oil filter replacements in accordance
-             with manufacturer specifications.
-            - Performed cabin air filter replacements, air filter replacements, and battery replacements.
-            - Executed tire mounting, dismounting, puncture repair, and tire balancing.
-            - Conducted comprehensive maintenance inspections including tire, brake, filter, battery, and fluid level checks.
+            - Delivered quick lube services: oil and filter changes, cabin and air filter replacements, 
+              battery changes, tire mounting and balancing, and puncture repairs.
+            - Performed multi-point maintenance inspections, including brakes, tires, battery, and fluid levels.
+            - Developed foundational skills in automotive maintenance and customer-focused service delivery.
 
 certifications:
       title: Certifications 
@@ -217,17 +225,23 @@ publications:
 skills:
     title: Skills &amp; Proficiency
  
-    toolset: 
-      - name: Teamwork
+    toolset:
+      - name: Commitment to Learning and Career Growth
+        level: 100%   
+      - name: Express Lube Services
         level: 100%
-      - name: Organizational
-        level: 100%
-      - name: Attention to detail
-        level: 100%
-      - name: Learn new mechanical tasks
+      - name: Teamwork & Fast-Paced Service
+        level: 100%     
+      - name: Automotive Maintenance Inspections
         level: 90%
-      - name: Communication and customer service
-        level: 50%
+      - name: Tire Mounting, Balancing & Repairs
+        level: 100%
+      - name: Brake Pad & Rotor Replacement
+        level: 70%
+      - name: BG Service Procedures
+        level: 70%
+      - name: Vehicle Alignments
+        level: 70%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
